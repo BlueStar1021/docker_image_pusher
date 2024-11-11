@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 #自定义需要的镜像
 python:3.11
+openjdk:8
+nginx:1.12.1
